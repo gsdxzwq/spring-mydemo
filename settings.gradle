@@ -1,0 +1,3 @@
+rootProject.name = 'spring-mydemo'
+include 'springmvc-in-action'
+
