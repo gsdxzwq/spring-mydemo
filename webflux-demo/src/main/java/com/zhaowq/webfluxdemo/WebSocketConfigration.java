@@ -1,4 +1,4 @@
-package com.zhaowq.webflux;
+package com.zhaowq.webfluxdemo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

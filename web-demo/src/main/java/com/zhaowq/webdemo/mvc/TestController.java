@@ -6,7 +6,7 @@ import java.io.IOException;
 
 /**
  * @author zhaowq
- * @Date 2018/8/20
+ * @date 2018/8/20
  */
 @MyController
 @MyRequestMapping("/test")

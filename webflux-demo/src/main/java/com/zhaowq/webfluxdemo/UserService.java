@@ -1,4 +1,4 @@
-package com.zhaowq.webflux;
+package com.zhaowq.webfluxdemo;
 
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

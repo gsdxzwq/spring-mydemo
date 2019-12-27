@@ -14,7 +14,7 @@ import java.util.*;
 
 /**
  * @author zhaowq
- * @Date 2018/8/18
+ * @date 2018/8/18
  */
 public class MyDispatcherServlet extends HttpServlet {
     private Properties properties = new Properties();

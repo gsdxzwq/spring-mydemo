@@ -1,4 +1,4 @@
-package com.zhaowq.webflux;
+package com.zhaowq.webfluxdemo;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.socket.WebSocketHandler;

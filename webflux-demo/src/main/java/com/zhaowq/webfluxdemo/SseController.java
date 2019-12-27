@@ -1,4 +1,4 @@
-package com.zhaowq.webflux;
+package com.zhaowq.webfluxdemo;
 
 import org.springframework.http.codec.ServerSentEvent;
 import org.springframework.web.bind.annotation.GetMapping;

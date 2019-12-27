@@ -1,4 +1,4 @@
-package com.zhaowq.webflux;
+package com.zhaowq.webfluxdemo;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
